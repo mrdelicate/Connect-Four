@@ -1,7 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
-using System.Reflection.Metadata.Ecma335;
-
-GameBoard gameboard = new();
+﻿GameBoard gameboard = new();
 while (true)
 {
     Console.WriteLine("Please select a difficulty: \n1. Easy\n2. Medium\n3. Hard\n4. Pro");
