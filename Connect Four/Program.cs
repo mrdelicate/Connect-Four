@@ -164,7 +164,7 @@ public class GameBoard
     {
         Console.Clear();
         Console.WriteLine(",---------------------------------------,");
-        Console.WriteLine("|             Connect Four              |");
+        Console.WriteLine("|              Connect Four             |");
         Console.WriteLine("'---------------------------------------'");
         Console.WriteLine();
 
